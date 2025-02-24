@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # grpc-node-kit-v2
 
 A friendly KIT 🧧 for gRPC 🤝 Node.
